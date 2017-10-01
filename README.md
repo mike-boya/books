@@ -1,10 +1,10 @@
 # Books
 
 ## Pentesting
-- The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing - Patrick Engebretson
+- The Basics of Hacking and Penetration Testing - Patrick Engebretson
 - Penetration Testing: A Hands-on Introduction to Hacking - Georgia Weidman
 ## Programming
-- Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers - TJ O'Connor
+- Violent Python - TJ O'Connor
 ## OSINT
 - Open Source Intelligence Techniques - Michael Bazzell
 - Google Hacking for Penetration Testers - Johnny Long
