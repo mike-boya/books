@@ -12,6 +12,8 @@
 - A Message to Garcia - Elbert Hubbard
 - Nmap Cookbook: The Fat-free Guide to Network Scanning - Nicholas Marsh
 - Nmap Network Scanning by Gordon Fyodor Lyon
+## Reverse Engineering
+- The IDA Pro Book - Chris Eagle
 ## Web Application Security
--The Tangled Web - Michal Zalewski
--The Web Application Hacker's Handbook - Dafydd Stuttard and Marcus Pinto
+- The Tangled Web - Michal Zalewski
+- The Web Application Hacker's Handbook - Dafydd Stuttard and Marcus Pinto
